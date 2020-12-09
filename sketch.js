@@ -9,9 +9,9 @@ var ground;
 var pigs1,pigs3;
 var log1,log3,log4,log5;
 var bird;
-let bg
+let bg;
 function preload(){
-bg=loadImage("sprites/bg.png");
+bg=loadImage("bg.png");
 
 }
 function setup() {
